@@ -1,0 +1,18 @@
+[submodule "java/cf7-testbed"]
+	path = java/cf7-testbed
+	url = git@github.com:teovaira/cf7-testbed.git
+[submodule "java/my-calculator-project"]
+	path = java/my-calculator-project
+	url = git@github.com:teovaira/my-calculator-project.git
+[submodule "java/my-coding-calculator"]
+	path = java/my-coding-calculator
+	url = git@github.com:teovaira/my-coding-calculator.git
+[submodule "web/web-cf7-testbed"]
+	path = web/web-cf7-testbed
+	url = git@github.com:teovaira/web-cf7-testbed.git
+[submodule "javascript/js-testbed-cf7"]
+	path = javascript/js-testbed-cf7
+	url = git@github.com:teovaira/js-testbed-cf7.git
+[submodule "javascript/my-js-projects"]
+	path = javascript/my-js-projects
+	url = git@github.com:teovaira/my-js-projects.git
