@@ -16,3 +16,6 @@
 [submodule "javascript/my-js-projects"]
 	path = javascript/my-js-projects
 	url = git@github.com:teovaira/my-js-projects.git
+[submodule "java/MobileContactsConsoleSOA7"]
+	path = java/MobileContactsConsoleSOA7
+	url = git@github.com:a8anassis/MobileContactsConsoleSOA7.git
